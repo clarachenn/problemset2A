@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=
+comment1.target=Calculator()
+comment2.params=
+comment2.target=void\ display()
+comment3.params=a\ b\ c
+comment3.target=double\ quadraticFormula1(double,\ double,\ double)
+comment4.params=a\ b\ c
+comment4.target=double\ quadraticFormula2(double,\ double,\ double)
+comment5.params=x1\ x2\ y1\ y2
+comment5.target=double\ slopeFormula(double,\ double,\ double,\ double)
+comment6.params=x1\ x2
+comment6.target=double\ midpointFormulaX(double,\ double)
+comment7.params=y1\ y2
+comment7.target=double\ midpointFormulaY(double,\ double)
+comment8.params=a1\ k\ difference\ ak
+comment8.target=double\ arithmeticSeries(double,\ double,\ double,\ double)
+comment9.params=g1\ kTerms\ rate
+comment9.target=double\ geometricSeries(double,\ double,\ double)
+numComments=10
